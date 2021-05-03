@@ -1,6 +1,6 @@
 ---
 title: About us
-date: 2020-07-16T10:32:04.551Z
+date: 2021-05-03T18:24:12.470Z
 permalink: /about/index.html
 eleventyNavigation:
   key: Aboot
@@ -8,7 +8,7 @@ eleventyNavigation:
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-![no](/static/img/eggplant.png "you")
+# Hello
 
 Add a few line breaks in here to test:-
 Capitalize\
